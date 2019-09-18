@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Phox Design - Web Design Services Auckland, NZ
+author: Phox
+email: admin@phoxdesign.co.nz
 description: > # this means to ignore newlines until "baseurl:"
   A Site Starter Materialize Templates for Jekyll
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: 
+github_username:  
 
 sass:
     style: compressed
