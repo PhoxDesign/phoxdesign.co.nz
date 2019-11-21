@@ -12,7 +12,9 @@ Now that **Google** is prioritizing mobile-friendly sites in its search results 
 
 All our websites are designed and built to be fully responsive.
 
-Contact us today to discuss how Phox can work with your business.
+**Contact us** today to discuss how Phox can work with your business.
+
+---
 
 <form id="contactform" method="POST">
     <input type="text" name="name" placeholder="Your name">
