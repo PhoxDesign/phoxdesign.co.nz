@@ -1,5 +1,6 @@
 ---
-title: 
+layout: post
+title: test post
 image: 
-tags: 
+tags: web design
 ---
