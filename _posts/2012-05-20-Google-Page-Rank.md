@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Google Changed in PageRank in Since 2012
-categories: misc
+categories: seo
 ---
 
 Google has recently updated their Search Engine Algorithm and named it “Penguin“. Still the topic is hot and Webmasters are busy to cope with it. Google has just made a minor update on their Page Rank for the month of May 2012. WP Cypher got PR1 with this update and I’m really happy with this achievement.
