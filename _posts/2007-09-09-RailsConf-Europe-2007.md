@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RailsConf Europe 2007 Transcript
-categories: ruby
+tags: ruby
 ---
 
 Geoffrey Grosenbach: I’m Geoffrey Grosenbach, it’s Ruby on Rails Podcast episode number 58, October 2007, more interviews from RailsConf Europe in Berlin. Want to let you know my friend Fabio Akita is hosting a reject conf type conference in Sal Paulo, Brazil November 17th go to rubyonrailsworkshops.com for the details.
