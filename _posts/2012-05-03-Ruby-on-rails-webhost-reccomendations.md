@@ -3,7 +3,7 @@ layout: post
 title: Our Ruby Web Hosting Recommendations
 categories: ruby
 ---
-Our Ruby Web Hosting Recommendations
+As ruby on rails still isn't as popular as PHP, you may find a lack of availability on some hosting platforms. Here is a short, curated list of platforms to host your Ruby code...
 
 # HostGator - 1st Pick Tie
 
