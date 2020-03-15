@@ -3,6 +3,7 @@ layout: post
 title: Our Ruby Web Hosting Recommendations
 categories: ruby
 ---
+Our Ruby Web Hosting Recommendations
 
 # HostGator - 1st Pick Tie
 
